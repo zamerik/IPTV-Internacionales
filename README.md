@@ -324,9 +324,6 @@ http://castlempire.site:8080/UserTest4Octubre_00k/uek4neVNWyxE/169984
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/0490c7d6ebd8f068e449b87271212be4.jpg" group-title="Internacional", DEPORTES | Win Sports +
 http://castlempire.site:8080/UserTest4Octubre_00k/uek4neVNWyxE/170060
 
-#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/7ba73fcf05dcc6eb87b3d86da9034f16.jpg" group-title="Internacional", DEPORTES | Yes Network
-http://castlempire.site:8080/UserTest4Octubre_00k/uek4neVNWyxE/170023
-
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/e7aa879e9a70a5779ba71d7e8eb0ab71.jpg" group-title="Internacional", CINE HD | AMC HD
 http://castlempire.site:8080/UserTest4Octubre_00k/uek4neVNWyxE/172747
 
